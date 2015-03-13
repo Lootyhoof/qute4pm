@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+  <em:id>{0c44653b-8ca4-4125-b98e-98e62085837f}</em:id>
+    <em:version>1.0.0</em:version>
+    <em:type>4</em:type>
+    <em:skinnable>true</em:skinnable>
+
+<!-- Target Application this extension can install into,
+         with minimum and maximum supported versions. -->
+
+<em:targetApplication>
+    <Description>
+      <!-- Pale Moon's UUID -->
+      <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
+      <em:minVersion>24.0</em:minVersion>
+      <em:maxVersion>25.*</em:maxVersion>
+    </Description>
+  </em:targetApplication>
+
+  <!-- Front End MetaData -->
+  <em:name>Qute 4 PM</em:name>
+  <em:description>Customized version of Arvid Axelsson's great theme with the new Qute 4 icon set. Fork of "Qute 4++ (custom mod)" by Murphy.</em:description>
+  <em:creator>Lootyhoof</em:creator>
+  <em:contributor>Murphy</em:contributor>
+  <em:contributor>Arvid Axelsson - author of the Qute icons and the original theme.</em:contributor>
+
+  <!-- Front End Integration Hooks (used by Theme Manager)-->
+  <em:internalName>qute4pm</em:internalName>
+  </Description>
+
+</RDF>
