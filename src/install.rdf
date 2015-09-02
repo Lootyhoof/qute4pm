@@ -9,7 +9,7 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>{0c44653b-8ca4-4125-b98e-98e62085837f}</em:id>
-    <em:version>1.1.0</em:version>
+    <em:version>1.1.1</em:version>
     <em:name>Qute 4 PM</em:name>
     <em:description>Customized version of Arvid Axelsson's great theme with the new Qute 4 icon set. Fork of "Qute 4++ (custom mod)" by Murphy.</em:description>
     <em:creator>Lootyhoof</em:creator>
