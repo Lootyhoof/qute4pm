@@ -492,6 +492,10 @@ toolbar[mode=full] .toolbarbutton-1:not([type=menu-button]) {
   -moz-box-orient: vertical;
 }
 
+.toolbarbutton-1[type="menu"] {
+  -moz-box-orient: horizontal !important;
+}
+
 #nav-bar .toolbarbutton-1 > .toolbarbutton-menubutton-button,
 #nav-bar .toolbarbutton-1 > .toolbarbutton-menubutton-dropmarker,
 #nav-bar .toolbarbutton-1 {
