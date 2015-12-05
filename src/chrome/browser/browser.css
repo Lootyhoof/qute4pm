@@ -742,7 +742,8 @@ toolbar[iconsize="small"][mode="icons"] #forward-button:not([disabled="true"]):h
 
 /* history sidebar button */
 
-#history-button {
+#history-button,
+#history-menu-button {
   -moz-image-region: rect(0 168px 24px 144px);
 }
 
@@ -934,8 +935,13 @@ toolbar[iconsize="small"] #downloads-button {
 
 /* history sidebar button */
 
-toolbar[iconsize="small"] #history-button {
+toolbar[iconsize="small"] #history-button,
+toolbar[iconsize="small"] #history-menu-button {
   -moz-image-region: rect(0 112px 16px 96px);
+}
+
+toolbar[iconsize="small"] #history-menu-button.toolbarbutton-1 {
+  -moz-box-orient: horizontal;
 }
 
 /* bookmark sidebar button */
