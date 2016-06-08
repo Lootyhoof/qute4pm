@@ -5,6 +5,3 @@ skin	mozapps		qute4pm	chrome/mozapps/
 
 skin	os			qute4pm	chrome/os/winnt/		os=WINNT	
 skin	os			qute4pm	chrome/os/linux/		os=Linux
-
-skin 	appver		qute4pm	chrome/appver/25/		appversion<=26.0.0b2
-skin	appver		qute4pm	chrome/appver/26/		appversion>26.0.0b2
