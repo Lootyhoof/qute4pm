@@ -1,0 +1,16 @@
+/* download status button */
+#status4evar-download-button #status4evar-download-icon,
+#status4evar-download-button:-moz-lwtheme-brighttext #status4evar-download-icon {
+  background: -moz-image-rect(url("chrome://browser/skin/Toolbar.png"),
+                              0, 144, 24, 120) !important;
+  width:24px;
+  height:22px;
+}
+
+toolbar[iconsize="small"] #status4evar-download-button #status4evar-download-icon,
+toolbar[iconsize="small"] #status4evar-download-button:-moz-lwtheme-brighttext #status4evar-download-icon {
+  background: -moz-image-rect(url("chrome://browser/skin/Toolbar-small.png"),
+                              0, 96, 15, 80) !important;
+  width:16px;
+  height:15px;
+}
