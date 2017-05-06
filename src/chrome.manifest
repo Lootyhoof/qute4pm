@@ -5,3 +5,4 @@ skin	mozapps		qute4pm	chrome/mozapps/
 
 skin	os			qute4pm	chrome/os/winnt/		os=WINNT	
 skin	os			qute4pm	chrome/os/linux/		os=Linux
+skin	os			qute4pm	chrome/os/darwin/		os=Darwin
