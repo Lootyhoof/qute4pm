@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#0066a0"/>
+      <stop offset="1" stop-color="#69c1ff"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cdd9ff"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#6293ca"/>
+      <stop offset="1" stop-color="#a7d1e9"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".5" stop-color="#e1f8ff"/>
+      <stop offset="1" stop-color="#a1c6ef"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="g" x1="17.5" y1="11" x2="19.5" y2="9" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 10 15)"/>
+    <linearGradient xlink:href="#b" id="h" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 12.5 11.5)" x1="15.5" y1="17.5" x2="4" y2="20"/>
+    <linearGradient xlink:href="#c" id="e" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.33333 1.33333 0 -4 25.333)" x1="14.5" y1="13.5" x2="5.5" y2="17.25"/>
+    <linearGradient xlink:href="#d" id="f" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 12.5 11.5)" x1="3" y1="23" x2="21" y2="23"/>
+  </defs>
+  <path d="M23.5 20.5v-17H6L1.5 8v12.5h22z" fill="url(#e)" fill-rule="evenodd" stroke="url(#f)"/>
+  <path d="M1 8h5V3" fill="url(#g)" fill-rule="evenodd"/>
+  <path d="M7 4.5h15.5v15.047L2 19.5" fill="none" stroke="url(#h)"/>
+  <text style="text-align:start;line-height:125%;-inkscape-font-specification:Constantia" x="8.417" y="16.847" font-size="14" font-weight="400" font-family="Constantia">
+    <tspan x="8.417" y="16.847" style="text-align:start;line-height:125%;-inkscape-font-specification:Constantia">A</tspan>
+  </text>
+</svg>

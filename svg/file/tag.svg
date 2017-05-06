@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".5" stop-color="#e1f8ff"/>
+      <stop offset="1" stop-color="#a2c8ee"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#3a75b6"/>
+      <stop offset="1" stop-color="#a7d1e9"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#cdd9ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="11.25" y1="15.25" x2="2.25" y2=".75" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.25 -.25)"/>
+    <linearGradient xlink:href="#b" id="e" gradientUnits="userSpaceOnUse" x1="7" y1="6" x2="10" y2="12"/>
+    <linearGradient xlink:href="#c" id="f" x1="9.5" y1="15" x2="8.5" y2="11" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path style="marker:none" d="M2 2v6l7 7 6-6-7-7H2zm3.5 1.5a2 2 0 1 1-.001 4.001A2 2 0 0 1 5.5 3.5z" fill="none" stroke="url(#d)" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" overflow="visible"/>
+  <path style="marker:none" d="M2 2v6l7 7 6-6-7-7H2zm3.5 1.5a2 2 0 1 1-.001 4.001A2 2 0 0 1 5.5 3.5z" fill="url(#e)" fill-rule="evenodd" overflow="visible"/>
+  <path style="marker:none" d="M9 6l2.5 2.5M8 7l2.5 2.5" fill="none" stroke="#5696c2" stroke-width=".75" stroke-linecap="square" stroke-linejoin="round" overflow="visible"/>
+  <path d="M3 8.25l6 6 5-5" style="marker:none" fill="none" stroke="url(#f)" stroke-linecap="square" overflow="visible"/>
+</svg>

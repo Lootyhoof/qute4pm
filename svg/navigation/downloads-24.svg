@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1">
+  <defs>
+    <linearGradient id="c">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#e4cd5f"/>
+      <stop offset="1" stop-color="#fffdcd"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#91e4ff"/>
+      <stop offset="1" stop-color="#419fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#cfa821"/>
+      <stop offset=".552" stop-color="#ece990"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="e" x1="3.844" y1="11.177" x2="9.511" y2="9.511" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 10.5 12.766) scale(1.5)"/>
+    <linearGradient xlink:href="#b" id="f" x1="1.511" y1="14.177" x2="6.511" y2="13.177" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 10.5 12.766) scale(1.5)"/>
+    <linearGradient xlink:href="#c" id="g" gradientUnits="userSpaceOnUse" x1="7.75" y1="4.875" x2="17.25" y2="4.875"/>
+    <linearGradient xlink:href="#d" id="h" x1="11" y1="2" x2="14" y2="9" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path d="M3 9v13h17l1.969-7.969h-2L20 10H8.5l-1-1H3z" fill="none" stroke="#c2a256" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M20 22V10H8.5l-1-1H3v13h17z" fill="url(#e)" fill-rule="evenodd"/>
+  <path d="M3 22h17v-9.5H9l-1 1H4L3 22z" opacity=".4" fill="#783800" fill-rule="evenodd"/>
+  <path d="M3 22h17l2-8H10l-1 1H5l-2 7z" fill="url(#f)" fill-rule="evenodd"/>
+  <path style="marker:none" d="M12.5 0v8" fill="none" stroke="#1c5fac" stroke-width="3" color="#000" overflow="visible"/>
+  <path style="marker:none" d="M8.5 4.5l4 4 4-4" fill="none" stroke="#1c5fac" stroke-width="3.5" stroke-linecap="round" overflow="visible"/>
+  <path d="M3.5 21.5h16l2-7" fill="none" stroke="#fff" stroke-linejoin="round" opacity=".518"/>
+  <g stroke="url(#h)" fill="none">
+    <path d="M8.5 4.5l4 4 4-4" style="marker:none" stroke-width="1.5" stroke-linecap="round" overflow="visible"/>
+    <path d="M12.5 1v6.5"/>
+  </g>
+</svg>

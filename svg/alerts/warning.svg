@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1">
+  <defs>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#c87600"/>
+      <stop offset=".633" stop-color="#fff305"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b46a00"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#502e00"/>
+      <stop offset="1" stop-color="#c8a500"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#a08400"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1="19" y1="19.5" x2="18.5" y2="11.5" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#b" id="h" x1="10" y1="30" x2="8" y2="4" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="g" x1="14.5" y1="24" x2="14.5" y2="27" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#d" id="e" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.5 -.5)" x1="24" y1="28.5" x2="15.5" y2="6"/>
+  </defs>
+  <path d="M15.813 2.5c-.987.06-1.868.62-2.376 1.469l-12.5 21C.38 25.897.338 27.05.875 28c.538.95 1.556 1.503 2.625 1.5h25c1.069.003 2.087-.55 2.625-1.5.538-.95.496-2.103-.063-3.031l-12.5-21a2.993 2.993 0 0 0-2.75-1.469z" fill="url(#e)" fill-rule="evenodd"/>
+  <path d="M17 14v4" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M16 13.5v4" fill="none" stroke="url(#f)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M17 24" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M16 23.5" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M15.813 2.5c-.987.06-1.868.62-2.376 1.469l-12.5 21C.38 25.897.338 27.05.875 28c.538.95 1.556 1.503 2.625 1.5h25c1.069.003 2.087-.55 2.625-1.5.538-.95.496-2.103-.063-3.031l-12.5-21a2.993 2.993 0 0 0-2.75-1.469zm.093 1.5c.546-.035 1.078.253 1.375.75l12.5 21c.293.487.296 1.033.032 1.5A1.502 1.502 0 0 1 28.5 28h-25a1.502 1.502 0 0 1-1.313-.75 1.451 1.451 0 0 1 .032-1.5l12.5-21c.265-.442.711-.72 1.187-.75z" fill="url(#g)" fill-rule="evenodd"/>
+  <path d="M15.813 2.5c-.987.06-1.868.62-2.376 1.469l-12.5 21C.38 25.897.338 27.05.875 28c.538.95 1.556 1.503 2.625 1.5h25c1.069.003 2.087-.55 2.625-1.5.538-.95.496-2.103-.063-3.031l-12.5-21a2.993 2.993 0 0 0-2.75-1.469z" fill="none" stroke="url(#h)" stroke-linejoin="round"/>
+  <path d="M29 27.5H3" fill="none" stroke="#e5cd5b"/>
+</svg>

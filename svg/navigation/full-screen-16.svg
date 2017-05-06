@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#2b539d"/>
+      <stop offset="1" stop-color="#55b9ff"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b9daff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="8.999" y1="9.641" x2="11.425" y2="17.887" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.86957 0 0 .96875 -2.935 6.672)"/>
+    <linearGradient xlink:href="#b" id="d" x1="12" y1="7" x2="12" y2="4" gradientUnits="userSpaceOnUse" gradientTransform="translate(-5 10)"/>
+  </defs>
+  <g transform="translate(0 -8)">
+    <path style="marker:none" fill="url(#c)" fill-rule="evenodd" stroke="#2272cd" overflow="visible" d="M.5 16h10v7.5H.5z"/>
+    <rect width="11" height="3" y="14" rx="1.5" fill="url(#d)"/>
+    <path fill="#69bbff" d="M1 15h9v1H1z"/>
+    <path d="M13 21.5l3-3-3-3v6z" id="e"/>
+    <use xlink:href="#e" transform="rotate(-90 6 19)" width="24" height="24"/>
+  </g>
+</svg>

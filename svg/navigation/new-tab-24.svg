@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1">
+  <defs>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#edecdf"/>
+      <stop offset="1" stop-color="#ded8b3"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".248" stop-color="#ffffeb"/>
+      <stop offset=".624" stop-color="#f2f0d3"/>
+      <stop offset="1" stop-color="#d8cea5"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="i" gradientUnits="userSpaceOnUse" y1="12" x2="0" y2="24"/>
+    <linearGradient xlink:href="#b" id="h" gradientUnits="userSpaceOnUse" x1="8" y1="23" x2="4" y2="13"/>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#32bc20"/>
+      <stop offset="1" stop-color="#147714"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#31bf31"/>
+      <stop offset=".5" stop-color="#8ce35d"/>
+      <stop offset="1" stop-color="#ebffcd"/>
+    </linearGradient>
+    <radialGradient xlink:href="#c" id="g" cx="17.128" cy="5.404" fx="17.128" fy="5.404" r="10" gradientTransform="matrix(-1.80278 0 0 -1.51027 45.878 11.161)" gradientUnits="userSpaceOnUse"/>
+    <filter id="f" x="-.189" width="1.379" y="-.327" height="1.655">
+      <feGaussianBlur stdDeviation=".75"/>
+    </filter>
+    <linearGradient xlink:href="#d" id="e" x1="8.5" y1="3" x2="8.5" y2="7" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path d="M23.5 18.5h-21v-12h10v-3c0-1.108 1.392-2 2.5-2h6.5c1.108 0 2 .892 2 2v15z" fill="none" stroke="#b3a78d"/>
+  <path d="M14.5 7.5h-11v-3c0-1.108.892-2 2-2h7c1.108 0 2 .892 2 2v3z" fill="url(#e)" stroke="#ab9e81"/>
+  <path d="M13 3.5V7H4.5" opacity=".4" fill="none" stroke="#644600" stroke-width="2" filter="url(#f)"/>
+  <path d="M23 18H3V7h10V4c0-1.108.892-2 2-2h6c1.108 0 2 .892 2 2v14z" fill="url(#g)"/>
+  <path d="M3.5 18V7.5H13" fill="none" stroke="#fff"/>
+  <g>
+    <path d="M5.5 12.5c-.554 0-1 .446-1 1v3h-3c-.554 0-1 .446-1 1v1c0 .554.446 1 1 1h3v3c0 .554.446 1 1 1h1c.554 0 1-.446 1-1v-3h3c.554 0 1-.446 1-1v-1c0-.554-.446-1-1-1h-3v-3c0-.554-.446-1-1-1h-1z" fill="url(#h)" stroke="url(#i)" stroke-linecap="round"/>
+  </g>
+</svg>

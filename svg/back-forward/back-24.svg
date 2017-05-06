@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1">
+  <defs>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#3e763e"/>
+      <stop offset="1" stop-color="#4b914b"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#8c8c8c"/>
+      <stop offset="1" stop-color="#c8c8c8"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#d0ffa5"/>
+      <stop offset="1" stop-color="#3d8b3d"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".3" stop-color="#fff"/>
+      <stop offset="1" stop-color="#aaa"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1=".427" y1="22.109" x2="31.359" y2="22.109" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#b" id="e" cx="5.301" cy="11.348" fx="5.301" fy="11.348" r="15.359" gradientTransform="matrix(-1.54783 0 0 -1.09343 33.763 23.757)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="g" x1="238" y1="246" x2="238" y2="235" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#d" id="h" cx="239.579" cy="236.807" fx="239.579" fy="236.807" r="6.75" gradientTransform="rotate(90 445.296 234.924) scale(1.85898)" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path d="M30.714 11.348c0 5.696-6.635 10.313-14.821 10.313S1.07 17.044 1.07 11.348c0-5.695 6.636-10.312 14.822-10.312s14.821 4.617 14.821 10.312z" transform="matrix(0 -.7759 1.11515 0 -.655 24.331)" fill="url(#e)" fill-rule="evenodd" stroke="url(#f)" stroke-width="1.075"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17.5 13h-11l5.5 5.5m0-11L6.5 13" opacity=".8" stroke="#fff" stroke-width="4"/>
+    <path d="M246 240.5h-11l5.5 5.5m0-11l-5.5 5.5" stroke="url(#g)" stroke-width="4" transform="translate(-228.5 -228.5)"/>
+    <path d="M246 240.75h-11l5.5 5.5m0-11l-5.5 5.5" stroke="url(#h)" stroke-width="2.5" transform="translate(-228.5 -228.5)"/>
+  </g>
+</svg>

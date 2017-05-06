@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#0066a0"/>
+      <stop offset="1" stop-color="#69c1ff"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cdd9ff"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#6293ca"/>
+      <stop offset="1" stop-color="#a7d1e9"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".5" stop-color="#e1f8ff"/>
+      <stop offset="1" stop-color="#a1c6ef"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="k" x1="18.5" y1="10" x2="20" y2="8.5" gradientUnits="userSpaceOnUse" gradientTransform="translate(-7 -2)"/>
+    <linearGradient xlink:href="#b" id="l" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6 4)" x1="15" y1="5" x2="16.5" y2="11"/>
+    <linearGradient xlink:href="#c" id="i" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.33333 0 0 1.33333 -7.333 -1)" x1="13" y1="6" x2="14.5" y2="11.25"/>
+    <linearGradient xlink:href="#d" id="j" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6 4)" x1="11" y1="12" x2="11"/>
+    <linearGradient xlink:href="#c" id="e" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.33333 0 0 1.33333 -11.333 -5)" x1="13" y1="6" x2="14.5" y2="11.25"/>
+    <linearGradient xlink:href="#d" id="f" gradientUnits="userSpaceOnUse" gradientTransform="translate(-10)" x1="11" y1="12" x2="11"/>
+    <linearGradient xlink:href="#a" id="g" gradientUnits="userSpaceOnUse" gradientTransform="translate(-11 -6)" x1="18.5" y1="10" x2="20" y2="8.5"/>
+    <linearGradient xlink:href="#b" id="h" gradientUnits="userSpaceOnUse" gradientTransform="translate(-10)" x1="15" y1="5" x2="16.5" y2="11"/>
+  </defs>
+  <path d="M1.5 11.5h9V3L8 .5H1.5v11z" fill="url(#e)" fill-rule="evenodd" stroke="url(#f)"/>
+  <path d="M8 0v3h3" fill="url(#g)" fill-rule="evenodd"/>
+  <path d="M9.5 4v6.5H2.453L2.5 1" fill="none" stroke="url(#h)"/>
+  <path opacity=".15" fill="#001764" d="M4 3h7v9H4z"/>
+  <path d="M5.5 15.5h9V7L12 4.5H5.5v11z" fill="url(#i)" fill-rule="evenodd" stroke="url(#j)"/>
+  <path d="M12 4v3h3" fill="url(#k)" fill-rule="evenodd"/>
+  <path d="M13.5 8v6.5H6.453L6.5 5" fill="none" stroke="url(#l)"/>
+</svg>

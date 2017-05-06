@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="e">
+      <stop offset="0" stop-color="#ffab91"/>
+      <stop offset=".5" stop-color="#dd6050"/>
+      <stop offset="1" stop-color="#dc6050" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#ff8c7d"/>
+      <stop offset=".5" stop-color="#d04848"/>
+      <stop offset="1" stop-color="#c24242" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#84ff41"/>
+      <stop offset=".5" stop-color="#42bf31"/>
+      <stop offset="1" stop-color="#52bf31" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#69e5ff"/>
+      <stop offset=".5" stop-color="#008df0"/>
+      <stop offset="1" stop-color="#008df0" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient xlink:href="#a" id="f" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#b" id="g" gradientUnits="userSpaceOnUse" x1="5" y1="-1" x2="7" y2="7" gradientTransform="translate(-.059 .053)"/>
+    <radialGradient xlink:href="#a" id="h" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="i" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#a" id="j" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="k" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#c" id="l" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="m" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#c" id="n" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="o" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#c" id="p" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="q" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#d" id="r" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="s" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#d" id="v" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="w" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+    <radialGradient xlink:href="#e" id="t" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1.63355 1.63355 0 -6.72 24.378)" cx="6.659" cy="12.378" fx="6.659" fy="12.378" r="7"/>
+    <linearGradient xlink:href="#b" id="u" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.059 .053)" x1="5" y1="-1" x2="7" y2="7"/>
+  </defs>
+  <g fill-rule="evenodd">
+    <rect style="marker:none" width="16" height="16" rx="3" ry="3" fill="#c80000" overflow="visible"/>
+    <rect ry="2.5" rx="2.5" y=".5" x=".5" height="15" width="15" style="marker:none" fill="url(#t)" overflow="visible"/>
+    <rect rx="2.5" y=".5" x=".5" height="12.115" width="15" style="marker:none" ry="2.5" fill="url(#u)" overflow="visible"/>
+  </g>
+  <path d="M5.5 5.5l5 5m-5 0l5-5" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="square"/>
+</svg>

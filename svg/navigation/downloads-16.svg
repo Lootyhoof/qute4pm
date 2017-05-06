@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#003878"/>
+      <stop offset="1" stop-color="#0598ff"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#e4cd5f"/>
+      <stop offset="1" stop-color="#fffdcd"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#cfa821"/>
+      <stop offset=".552" stop-color="#ece990"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="h" gradientUnits="userSpaceOnUse" x1="7.75" y1="4.875" x2="17.25" y2="4.875"/>
+    <linearGradient xlink:href="#b" id="e" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 10.5 12.766) scale(1.5)" x1="8.511" y1="9.177" x2="12.844" y2="7.844"/>
+    <linearGradient xlink:href="#c" id="f" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-90 10.5 12.766) scale(1.5)" x1="6.177" y1="9.511" x2="9.511" y2="8.844"/>
+    <linearGradient xlink:href="#d" id="g" x1="10" y1="6" x2="6.5" y2="1" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path d="M1 5v10h12l1.969-5.969h-2L13 6H6L5 5H1z" fill="none" stroke="#c2a256" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M13 15V6H6L5 5H1v10h12z" fill="url(#e)" fill-rule="evenodd"/>
+  <path d="M1 15h12V7.5H6.5l-1 1H2L1 15z" opacity=".3" fill="#784600" fill-rule="evenodd"/>
+  <path d="M1 15h12l2-6H7.5l-1 1H3l-2 5z" fill="url(#f)" fill-rule="evenodd"/>
+  <path d="M1.5 14.5h11l2-5.5" opacity=".518" fill="none" stroke="#fff" stroke-linejoin="round"/>
+  <path d="M8 0v5.5M5 3l3 3 3-3" style="marker:none" opacity=".5" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" overflow="visible"/>
+  <path style="marker:none" d="M8 0v5.5M5 3l3 3 3-3" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round" overflow="visible"/>
+</svg>

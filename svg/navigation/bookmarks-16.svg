@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#960000"/>
+      <stop offset=".5" stop-color="#c24b42"/>
+      <stop offset="1" stop-color="#ef5252"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".5" stop-color="#ffeecb" stop-opacity=".498"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="14.062" y1="21.095" x2="8.599" y2="3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.69468 0 0 .69468 229.19 243.88)"/>
+    <linearGradient xlink:href="#b" id="f" x1="18.465" y1="16.499" x2="12.304" y2="16.02" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="e" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.69468 0 0 .69468 .002 -.87)" x1="7" y1="5" x2="8" y2="14.5"/>
+  </defs>
+  <g fill-rule="evenodd">
+    <path d="M237.178 250.826c.348-4.168 5.21-5.558 7.294-2.431 3.474 5.21-7.294 11.462-7.294 11.462s-10.767-6.252-7.294-11.462c2.084-3.127 6.947-1.737 7.294 2.43z" fill="url(#d)" transform="translate(-229.188 -244.75)"/>
+    <path d="M3.844 2.688a2.871 2.871 0 0 0-.938.124c-.6.192-1.161.602-1.594 1.25-.73 1.097-.708 2.121-.25 3.282.459 1.16 1.415 2.373 2.5 3.437A25.572 25.572 0 0 0 8 14.22a25.823 25.823 0 0 0 4.406-3.438c1.086-1.064 2.042-2.277 2.5-3.437.459-1.16.481-2.185-.25-3.282-.864-1.296-2.198-1.608-3.437-1.218-1.24.39-2.319 1.479-2.469 3.281a.76.76 0 0 1-.75.75.76.76 0 0 1-.75-.75C7.1 4.323 6.02 3.233 4.781 2.844a3.37 3.37 0 0 0-.937-.156z" fill="url(#e)"/>
+    <path style="marker:none" d="M15.396 15a2.146 6.182 0 1 1-4.292 0 2.146 6.182 0 1 1 4.292 0z" transform="rotate(44.955 15.914 10.328) scale(.88753)" fill="url(#f)" overflow="visible"/>
+  </g>
+</svg>

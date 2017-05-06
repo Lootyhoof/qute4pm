@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#edecdf"/>
+      <stop offset="1" stop-color="#ded8b3"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".248" stop-color="#ffffeb"/>
+      <stop offset=".624" stop-color="#f2f0d3"/>
+      <stop offset="1" stop-color="#d8cea5"/>
+    </linearGradient>
+    <radialGradient xlink:href="#a" id="e" cx="17.128" cy="5.404" fx="17.128" fy="5.404" r="10" gradientTransform="matrix(-2.90387 0 0 -2.43272 64.738 18.146)" gradientUnits="userSpaceOnUse"/>
+    <filter id="d" x="-.189" width="1.379" y="-.327" height="1.655">
+      <feGaussianBlur stdDeviation=".75"/>
+    </filter>
+    <linearGradient xlink:href="#b" id="c" x1="8.5" y1="3" x2="8.5" y2="7" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 2)"/>
+  </defs>
+  <path d="M29.5 28.5h-27v-18h12v-5c0-1.108 1.392-2 2.5-2h10.5c1.108 0 2 .892 2 2v23z" fill="none" stroke="#b3a78d"/>
+  <path d="M17.5 11.5h-14v-5c0-1.108.892-2 2-2h10c1.108 0 2 .892 2 2v5z" fill="url(#c)" stroke="#ab9e81"/>
+  <path d="M15 5.5V11H4.5" opacity=".4" fill="none" stroke="#644600" stroke-width="2" filter="url(#d)"/>
+  <path d="M29 28H3V11h12V6c0-1.108.892-2 2-2h10c1.108 0 2 .892 2 2v22z" fill="url(#e)"/>
+  <path d="M3.5 28V11.5H15" fill="none" stroke="#fff"/>
+</svg>

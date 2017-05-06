@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1">
+  <defs>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ffcdcd"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#6a0000"/>
+      <stop offset="1" stop-color="#e35d5d"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#c80000" stop-opacity="0"/>
+      <stop offset=".252" stop-color="#ffaf96"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#780000"/>
+      <stop offset=".698" stop-color="#e64848"/>
+      <stop offset="1" stop-color="#fff7e1"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1="21.5" y1="31" x2="11" y2="1" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#b" id="e" x1="27.5" y1="27.5" x2="10.5" y2="3" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="h" gradientUnits="userSpaceOnUse" x1="19.5" y1="19.5" x2="11.5" y2="3"/>
+    <linearGradient xlink:href="#d" id="g" x1="17" y1="19" x2="15.5" y2="11" gradientUnits="userSpaceOnUse"/>
+    <filter id="i">
+      <feGaussianBlur stdDeviation=".7"/>
+    </filter>
+  </defs>
+  <path d="M31.5 16a15.5 15.5 0 1 1-31 0 15.5 15.5 0 1 1 31 0z" fill="url(#e)"/>
+  <path d="M31.5 16a15.5 15.5 0 1 1-31 0 15.5 15.5 0 1 1 31 0z" fill="none" stroke="url(#f)" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 11l8 8m-8 0l8-8" fill="none" stroke="#a00000" stroke-width="5" stroke-linecap="square"/>
+  <path d="M12 12l8 8m-8 0l8-8" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="square"/>
+  <path d="M29.5 16a13.5 13.5 0 1 1-27 0 13.5 13.5 0 1 1 27 0z" fill="none" stroke="url(#h)" stroke-linecap="round" stroke-linejoin="round" filter="url(#i)"/>
+  <path d="M8.969 11.5l-.5.5 1.75 1.781 1.719 1.719.5-.5-2.22-2.219-1.25-1.281zm14.062 0l-1.25 1.281L19.563 15l.5.5 1.718-1.719L23.531 12l-.5-.5zM16 18.563l-2.219 2.218L12 22.531 8.969 19.5l-.5.5L12 23.531l1.781-1.75L16 19.563l2.219 2.218L20 23.531 23.531 20l-.5-.5L20 22.531l-1.781-1.75L16 18.563z" fill="#fff" fill-rule="evenodd"/>
+</svg>

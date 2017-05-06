@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#979797"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-50 15.756 6.84)" spreadMethod="reflect" x1="4" y1="6" x2="14" y2="6"/>
+    <linearGradient xlink:href="#b" id="g" x1="12.5" y1="13" x2="11.5" y2="10.5" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="i" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.92636 -.01076 -.01076 .96364 .983 .247)" x1="5.95" y1="24.69" x2="6.071" y2="10.237"/>
+  </defs>
+  <use xlink:href="#d" transform="matrix(-1 0 0 1 24.054 0)" width="24" height="24"/>
+  <path id="d" d="M8 14l2 2.5 8-11c2.08-2.86.5-4.5.5-4.5L8 14z" style="marker:none" fill="#646464" fill-rule="evenodd" stroke="#5a5a5a" overflow="visible"/>
+  <use xlink:href="#e" transform="matrix(-1 0 0 1 24 0)" width="24" height="24"/>
+  <path style="marker:none" d="M7.5 14l2 2.5 8-11C19.58 2.64 18 1 18 1L7.5 14z" id="e" fill="url(#f)" fill-rule="evenodd" stroke-width=".75" stroke-linejoin="round" overflow="visible"/>
+  <path style="marker:none" d="M13.5 11a1.5 1.5 0 1 1-3 0 1.5 1.5 0 1 1 3 0z" transform="translate(0 -.5)" fill="url(#g)" overflow="visible"/>
+  <path style="marker:none" d="M8.072 12.647c-2.056-.551-4.423 1.523-5.247 4.597-.824 3.075.19 6.055 2.245 6.606 2.057.55 4.424-1.524 5.248-4.598.824-3.074-.19-6.054-2.246-6.605zm-.875 3.267c.873.234 1.285 1.446.935 2.753-.35 1.306-1.312 2.15-2.186 1.915-.874-.234-1.286-1.446-.936-2.752.35-1.306 1.313-2.15 2.187-1.916z" id="h" fill="#3f3fb1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" overflow="visible"/>
+  <use xlink:href="#h" transform="matrix(-1 0 0 1 24 0)" width="24" height="24"/>
+  <path style="marker:none" d="M7.298 12.82c-.601.022-1.244.293-1.862.835-.825.722-1.571 1.871-1.947 3.274-.376 1.403-.309 2.786.044 3.824.353 1.038.978 1.701 1.745 1.906.766.206 1.615-.058 2.44-.78.824-.723 1.57-1.872 1.947-3.275.375-1.403.308-2.786-.045-3.824-.352-1.038-.978-1.701-1.744-1.906a1.915 1.915 0 0 0-.578-.054zm-.426 1.872c.169-.002.348.008.52.054.688.184 1.178.739 1.403 1.399.224.66.213 1.446.004 2.228-.21.782-.597 1.45-1.121 1.91-.525.46-1.229.688-1.916.504-.688-.184-1.179-.739-1.403-1.399-.225-.66-.214-1.446-.004-2.228.21-.782.597-1.45 1.121-1.91.262-.23.575-.394.903-.492.164-.05.323-.064.493-.066z" id="j" fill="url(#i)" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" overflow="visible"/>
+  <use xlink:href="#j" transform="matrix(-1 0 0 1 24 0)" width="24" height="24"/>
+</svg>

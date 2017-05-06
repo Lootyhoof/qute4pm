@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#3f5ab1"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#2d69af"/>
+      <stop offset="1" stop-color="#8abbf5"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".278" stop-color="#fff"/>
+      <stop offset=".444" stop-color="#e1f3ff"/>
+      <stop offset="1" stop-color="#9bbfff"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1="16" y1="20" x2="16" y2="12" gradientUnits="userSpaceOnUse" gradientTransform="translate(-5.5 -9.5)"/>
+    <radialGradient xlink:href="#b" id="d" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.56337 0 0 -.625 -1.994 13.89)" spreadMethod="reflect" cx="12.415" cy="17.423" fx="12.415" fy="17.423" r="16"/>
+    <linearGradient xlink:href="#c" id="e" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00037 0 0 -.97707 -8.006 18.958)" x1="8.003" y1="3.028" x2="8.003" y2="19.403"/>
+  </defs>
+  <path d="M8 .5C3.86.5.5 3.188.5 6.5c0 2.727 2.29 5.021 5.406 5.75.278 1.658 3.107 3.25 5.719 3.25-1.182-.946-1.497-1.688-1.5-3.25 3.1-.736 5.375-3.032 5.375-5.75 0-3.312-3.36-6-7.5-6z" fill="url(#d)" stroke="url(#e)" stroke-linecap="square" stroke-linejoin="round"/>
+  <path style="marker:none" d="M12.477 3.5c.355.576.564 1.221.564 1.905 0 2.404-2.463 4.354-5.498 4.354-1.659 0-3.14-.595-4.149-1.516.894 1.45 2.762 2.45 4.934 2.45 3.036 0 5.499-1.951 5.499-4.355 0-1.09-.513-2.074-1.35-2.838z" fill="#fff" overflow="visible"/>
+  <text style="text-align:start;line-height:100%;-inkscape-font-specification:Corbel Bold" x="5.619" y="10.643" font-size="12" font-weight="700" fill="url(#f)" font-family="Corbel">
+    <tspan x="5.619" y="10.643" style="text-align:start;line-height:100%;-inkscape-font-specification:Corbel Bold">?</tspan>
+  </text>
+</svg>

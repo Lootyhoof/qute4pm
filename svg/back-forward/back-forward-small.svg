@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="96" version="1">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".251"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="m" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 .95455 -7.5 72.182)" x1="290.5" y1="176.333" x2="290.5" y2="168.476"/>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff" stop-opacity=".549"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".314"/>
+    </linearGradient>
+    <linearGradient xlink:href="#b" id="n" gradientUnits="userSpaceOnUse" gradientTransform="translate(-7.5 15.5)" x1="292" y1="175" x2="292" y2="181"/>
+    <linearGradient id="e">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#b4b4b4"/>
+      <stop offset="1" stop-color="#f0f0f0"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#8c8c8c"/>
+      <stop offset="1" stop-color="#d2d2d2"/>
+    </linearGradient>
+    <linearGradient xlink:href="#c" id="l" x1="17.5" y1="21.5" x2="17.5" y2="2.5" gradientUnits="userSpaceOnUse" gradientTransform="translate(229 157)"/>
+    <linearGradient xlink:href="#d" id="k" gradientUnits="userSpaceOnUse" x1="7.5" y1="20.5" x2="7.5" y2="2.5" gradientTransform="translate(229 157)"/>
+    <linearGradient xlink:href="#e" id="o" gradientUnits="userSpaceOnUse" gradientTransform="translate(-228.5 -156.5)" x1="238.5" y1="162" x2="238.5" y2="175"/>
+    <linearGradient id="h">
+      <stop offset="0" stop-color="#4baf2d"/>
+      <stop offset="1" stop-color="#1c6f1c"/>
+    </linearGradient>
+    <filter id="p" x="-.085" width="1.169" y="-.111" height="1.222">
+      <feGaussianBlur stdDeviation=".6"/>
+    </filter>
+    <linearGradient id="i">
+      <stop offset="0" stop-color="#90dc78"/>
+      <stop offset="1" stop-color="#339533"/>
+    </linearGradient>
+    <linearGradient id="j">
+      <stop offset="0" stop-color="#aaa"/>
+      <stop offset="1" stop-color="#828282"/>
+    </linearGradient>
+    <linearGradient xlink:href="#f" id="F" gradientUnits="userSpaceOnUse" gradientTransform="translate(229 230)" x1="7.5" y1="20.5" x2="7.5" y2="2.5"/>
+    <linearGradient xlink:href="#e" id="G" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 73)" x1="238.5" y1="162" x2="238.5" y2="175"/>
+    <linearGradient xlink:href="#g" id="H" gradientUnits="userSpaceOnUse" gradientTransform="translate(.75 -2.75)" x1="243.75" y1="240.25" x2="243.75" y2="248.25"/>
+    <linearGradient xlink:href="#h" id="q" gradientUnits="userSpaceOnUse" gradientTransform="translate(.75 -75.75)" x1="243.75" y1="240.25" x2="243.75" y2="248.25"/>
+    <linearGradient xlink:href="#i" id="I" gradientUnits="userSpaceOnUse" x1="244.5" y1="183.5" x2="244.5" y2="201.5" gradientTransform="translate(-228.5 -156.5)"/>
+    <linearGradient id="g">
+      <stop offset="0" stop-color="#3d8f24"/>
+      <stop offset="1" stop-color="#145014"/>
+    </linearGradient>
+    <linearGradient id="f">
+      <stop offset="0" stop-color="#828282"/>
+      <stop offset="1" stop-color="#dcdcdc"/>
+    </linearGradient>
+    <linearGradient xlink:href="#j" id="A" gradientUnits="userSpaceOnUse" gradientTransform="translate(.75 -27.75)" x1="243.75" y1="240.25" x2="243.75" y2="248.25"/>
+  </defs>
+  <g transform="translate(-228.5 -156.5)">
+    <path d="M234 160h16v17h-16c-2.77 0-5-2.23-5-5v-7c0-2.77 2.23-5 5-5z" id="r" fill="url(#k)" stroke="url(#l)"/>
+    <path d="M286 167.5h-6l3 4 3-4z" opacity=".5" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M286 167.5h-6l3 4 3-4z" fill-rule="evenodd"/>
+    <path d="M286 215.5h-6l3 4 3-4z" opacity=".5" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M286 215.5h-6l3 4 3-4z" opacity=".3" fill-rule="evenodd"/>
+    <rect rx="3" y="231.5" x="276.5" height="18" width="13" fill="#95a2ab"/>
+    <rect width="11" height="15.5" x="277.5" y="233" rx="2" fill="url(#m)"/>
+    <path d="M286 240.5h-6l3 4 3-4z" fill-rule="evenodd"/>
+    <rect rx="3" y="183.5" x="276.5" height="18" width="13" fill="#b3c3c9"/>
+    <rect width="11" height="16" x="277.5" y="184.5" rx="2" fill="url(#n)"/>
+    <path d="M286 191.5h-6l3 4 3-4z" fill-rule="evenodd"/>
+    <rect rx="1.5" y="185" x="278" height="15" width="10" opacity=".5" fill="none" stroke="#fff"/>
+    <path d="M5.5 5.5c-1.697 0-3 1.303-3 3v7c0 1.697 1.303 3 3 3h14v-13h-14z" transform="translate(228.5 156.5)" id="s" fill="url(#o)" filter="url(#p)"/>
+    <path d="M244.5 169.5h-8l4 4m0-8l-4 4" id="t" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="u" d="M244.5 168.5h-8l4 4m0-8l-4 4" fill="none" stroke="url(#q)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <use xlink:href="#r" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#s" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#t" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#u" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#r" id="v" transform="translate(0 24)" width="61" height="96"/>
+    <use xlink:href="#s" id="w" transform="translate(0 24)" width="61" height="96"/>
+    <use xlink:href="#t" id="x" transform="translate(0 24)" width="61" height="96"/>
+    <use xlink:href="#u" id="y" transform="translate(0 24)" width="61" height="96"/>
+    <use xlink:href="#v" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#w" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#x" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#y" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#z" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#r" id="B" transform="translate(0 48)" width="61" height="96"/>
+    <use xlink:href="#s" id="C" transform="translate(0 48)" width="61" height="96"/>
+    <use xlink:href="#t" id="D" transform="translate(0 48)" width="61" height="96"/>
+    <path id="E" d="M244.5 216.5h-8l4 4m0-8l-4 4" fill="none" stroke="url(#A)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <use xlink:href="#B" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#C" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#D" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#E" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <path d="M234 232h16v17h-16c-2.77 0-5-2.23-5-5v-7c0-2.77 2.23-5 5-5z" id="J" fill="#787878" stroke="#787878"/>
+    <path id="K" d="M234 233h16v16h-16c-2.77 0-5-2.23-5-5v-6c0-2.77 2.23-5 5-5z" fill="url(#F)"/>
+    <path id="L" d="M234 235c-1.697 0-3 1.303-3 3v7c0 1.697 1.303 3 3 3h14v-13h-14z" fill="url(#G)" filter="url(#p)" opacity=".5"/>
+    <path id="M" d="M244.5 242.5h-8l4 4m0-8l-4 4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
+    <path d="M244.5 241.5h-8l4 4m0-8l-4 4" id="N" fill="none" stroke="url(#H)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Bitstream Vera Sans" d="M5.5 27A5.499 5.499 0 0 0 0 32.5v7C0 42.538 2.462 45 5.5 45H22V27H5.5zm0 1.5h15v15h-15a3.97 3.97 0 0 1-4-4v-7c0-2.233 1.767-4 4-4z" transform="translate(228.5 156.5)" id="z" font-weight="400" color="#000" fill="url(#I)" stroke-width="3" overflow="visible" enable-background="accumulate" font-family="Bitstream Vera Sans"/>
+    <use xlink:href="#J" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#K" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#L" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#M" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+    <use xlink:href="#N" transform="matrix(-1 0 0 1 505 0)" width="61" height="96"/>
+  </g>
+</svg>

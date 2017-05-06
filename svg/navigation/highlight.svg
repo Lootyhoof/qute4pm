@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".3" stop-color="#feff91"/>
+      <stop offset="1" stop-color="#c88d00"/>
+    </linearGradient>
+    <radialGradient xlink:href="#a" id="b" cx="2.906" cy="11" fx="2.906" fy="11" r="3.5" gradientUnits="userSpaceOnUse" gradientTransform="rotate(90 4.717 12.365) scale(1.32564)"/>
+  </defs>
+  <g transform="translate(-228.5 -228.5)">
+    <path style="marker:none" d="M7.5 12.5a4 4 0 1 1-8 0 4 4 0 1 1 8 0z" transform="translate(229.5 227.5)" fill="url(#b)" fill-rule="evenodd" stroke="#a07100" overflow="visible"/>
+    <path d="M4.5 4.5V0" id="c" transform="translate(228.5 228.5)" fill="none" fill-rule="evenodd" stroke="#644600"/>
+    <use xlink:href="#c" transform="rotate(90 233 240)" width="16" height="16"/>
+    <use xlink:href="#c" id="d" transform="rotate(30 233.384 240.397)" width="16" height="16"/>
+    <use xlink:href="#d" transform="rotate(30 233.219 239.647)" width="16" height="16"/>
+  </g>
+</svg>

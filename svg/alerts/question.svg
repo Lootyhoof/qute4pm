@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1">
+  <defs>
+    <linearGradient id="e">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#3f5ab1"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#f1faff"/>
+      <stop offset="1" stop-color="#b9d2ff"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#abc9ff"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#2d69af"/>
+      <stop offset="1" stop-color="#8abbf5"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".278" stop-color="#fff"/>
+      <stop offset=".444" stop-color="#e1f3ff"/>
+      <stop offset="1" stop-color="#9bbfff"/>
+    </linearGradient>
+    <radialGradient xlink:href="#a" id="f" cx="12.499" cy="18.294" fx="12.499" fy="18.294" r="16" gradientTransform="matrix(.97805 0 0 .75207 .274 3.41)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#b" id="g" x1="5.497" y1="1.984" x2="3.004" y2="24.484" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="i" x1="26" y1="20.16" x2="19.658" y2="10.891" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.02487 0 0 1.02487 -.647 -1.162)"/>
+    <linearGradient xlink:href="#d" id="h" x1="15.5" y1="29" x2="15.5" y2="23.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 1 32.5 0)"/>
+    <linearGradient xlink:href="#e" id="j" x1="20" y1="20" x2="18.5" y2="5.5" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path d="M31.495 12.75a15.495 12.281 0 1 1-30.99 0 15.495 12.281 0 1 1 30.99 0z" transform="matrix(1.00037 0 0 -.97707 -.006 24.958)" fill="url(#f)" stroke="url(#g)" stroke-width="1.011" stroke-linecap="square" stroke-linejoin="round"/>
+  <path style="marker:none" d="M18.5 23.5c-.065 3.513.5 6 3 8-5.5 0-9.5-4.5-9.5-8" fill="url(#h)" stroke="#3173bf" stroke-linecap="square" overflow="visible"/>
+  <path style="marker:none" d="M26 5.5c.806 1.307 1.28 2.771 1.28 4.322 0 5.453-5.588 9.88-12.474 9.88-3.762 0-7.124-1.353-9.412-3.44 2.027 3.286 6.267 5.556 11.194 5.556 6.886 0 12.475-4.426 12.475-9.879 0-2.474-1.164-4.705-3.063-6.439z" fill="url(#i)" overflow="visible"/>
+  <text style="text-align:start;line-height:100%;-inkscape-font-specification:Corbel Bold" x="11.119" y="20.143" font-size="22" font-weight="700" fill="url(#j)" font-family="Corbel">
+    <tspan x="11.119" y="20.143">?</tspan>
+  </text>
+</svg>
