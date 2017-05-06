@@ -25,8 +25,8 @@
   <path d="M15.813 2.5c-.987.06-1.868.62-2.376 1.469l-12.5 21C.38 25.897.338 27.05.875 28c.538.95 1.556 1.503 2.625 1.5h25c1.069.003 2.087-.55 2.625-1.5.538-.95.496-2.103-.063-3.031l-12.5-21a2.993 2.993 0 0 0-2.75-1.469z" fill="url(#e)" fill-rule="evenodd"/>
   <path d="M17 14v4" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
   <path d="M16 13.5v4" fill="none" stroke="url(#f)" stroke-width="4" stroke-linecap="round"/>
-  <path d="M17 24" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
-  <path d="M16 23.5" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M17 24L17 24" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M16 23.5L16 23.5" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round"/>
   <path d="M15.813 2.5c-.987.06-1.868.62-2.376 1.469l-12.5 21C.38 25.897.338 27.05.875 28c.538.95 1.556 1.503 2.625 1.5h25c1.069.003 2.087-.55 2.625-1.5.538-.95.496-2.103-.063-3.031l-12.5-21a2.993 2.993 0 0 0-2.75-1.469zm.093 1.5c.546-.035 1.078.253 1.375.75l12.5 21c.293.487.296 1.033.032 1.5A1.502 1.502 0 0 1 28.5 28h-25a1.502 1.502 0 0 1-1.313-.75 1.451 1.451 0 0 1 .032-1.5l12.5-21c.265-.442.711-.72 1.187-.75z" fill="url(#g)" fill-rule="evenodd"/>
   <path d="M15.813 2.5c-.987.06-1.868.62-2.376 1.469l-12.5 21C.38 25.897.338 27.05.875 28c.538.95 1.556 1.503 2.625 1.5h25c1.069.003 2.087-.55 2.625-1.5.538-.95.496-2.103-.063-3.031l-12.5-21a2.993 2.993 0 0 0-2.75-1.469z" fill="none" stroke="url(#h)" stroke-linejoin="round"/>
   <path d="M29 27.5H3" fill="none" stroke="#e5cd5b"/>
