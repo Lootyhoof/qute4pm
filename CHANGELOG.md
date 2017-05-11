@@ -1,5 +1,26 @@
 # Changelog
 
+### 2.0.0
+- merge in macOS styling (basic macOS support)
+- add HiDPI-capable toolbar images
+- add new hover/click/disabled states for all icons (including most extension icons)
+- add image document favicon for viewing standalone images
+- add about:home styling for Home Styler
+- remove redundant Social API components
+- improve private browsing indicator styling
+- add new download notification icons
+- improve library toolbar appearance
+- sync about:support styling with default
+- sync notification popup styling with default
+- sync permissions manager styling with default
+- sync devtools styling with default
+- allow extensions to style their own toolbarbutton-badge
+- fix tab close icon mapping
+- fix learn more links in notification popups
+- provide smaller toolbar image for extension compatibility
+- improve appmenu appearance on Linux
+- cleanup of redundant files/icons
+
 ### 1.5.0
 - support PM27's devtools
 - drop PM26 support
