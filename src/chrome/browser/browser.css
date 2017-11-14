@@ -20,6 +20,8 @@
   
   --toolbarbutton-large-image: url("chrome://browser/skin/Toolbar-large.png");
   --toolbarbutton-small-image: url("chrome://browser/skin/Toolbar-small.png");
+  
+  --window-text-color: currentColor;
 }
 
 #menubar-items {
