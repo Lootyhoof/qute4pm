@@ -153,37 +153,37 @@ toolbarbutton.bookmark-item[open="true"] {
   background-image: var(--tab-pinned-background-hover);
 }
 
-/* Application button menu */
+/* ::::: app menu button ::::: */
 
 #appmenu-toolbar-button {
-  -moz-appearance: none;
-  border: none;
-  padding: 3px !important;
-  list-style-image: url("chrome://browser/skin/appmenu.png");
-  -moz-image-region: rect(0px, 18px, 18px, 0px);
+  list-style-image: url("chrome://branding/content/icon16.png");
+  border-radius: var(--appmenu-border-radius);
+  padding: 0.1em 0.1em .05em 0.5em;
+  margin: 2px;
 }
 
-#appmenu-toolbar-button:hover {
-  -moz-image-region: rect(18px, 18px, 36px, 0px);
+#main-window[sizemode=maximized] #appmenu-toolbar-button {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: none;
+  margin: 2px 2px 2px 0px;
 }
 
-toolbar:not([brighttext]) #appmenu-toolbar-button:hover:active,
-toolbar[brighttext] #appmenu-toolbar-button:not(:hover):not(:active) {
-  -moz-image-region: rect(36px, 18px, 54px, 0px);
+#main-window[privatebrowsingmode=temporary] #appmenu-toolbar-button {
+  list-style-image: url("chrome://browser/skin/Privacy-16.png");
 }
 
-toolbar[brighttext] #appmenu-toolbar-button:hover:active {
-  -moz-image-region: rect(0px, 18px, 18px, 0px);
-}
-
-#appmenu-toolbar-button > label,
-#appmenu-toolbar-button > .toolbarbutton-menu-dropmarker {
+#appmenu-toolbar-button > label {
   display: none !important;
 }
 
-.toolbarbutton-1 > .toolbarbutton-menu-dropmarker,
-.toolbarbutton-1 > .toolbarbutton-menubutton-dropmarker {
-  list-style-image: none !important;
+/* Private browsing indicator */
+
+#main-window[privatebrowsingmode=temporary] #toolbar-menubar[autohide="false"] ~ #TabsToolbar::before {
+  display: -moz-box;
+  content: "";
+  background: url("chrome://browser/skin/Privacy-16.png") center no-repeat;
+  width: 32px;
 }
 
 /* Add-on bar */
