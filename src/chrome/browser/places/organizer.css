@@ -2,6 +2,10 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
+:root {
+  --back-forward-small-image: url("chrome://browser/skin/back-forward-small.png");
+}
+
 /* Toolbar */
 #placesToolbar {
   padding: 3px;  /* b/f buttons have a 1px image padding */
@@ -10,7 +14,7 @@
 
 /* back & forward buttons */
 #back-button, #forward-button {
-  list-style-image: url("chrome://browser/skin/back-forward-small.png");
+  list-style-image: var(--back-forward-small-image);
   -moz-appearance: none;
   padding: 0;
   border: none;
