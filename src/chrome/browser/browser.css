@@ -1055,7 +1055,7 @@ html|*.urlbar-input:-moz-lwtheme::-moz-placeholder,
 }
 
 .urlbar-icon:hover {
-  background-image: var(--urlbar-icon-hover-background);
+  background-image: radial-gradient(circle closest-side, hsla(200,100%,70%,.3), hsla(200,100%,70%,0));
 }
 
 .urlbar-icon[open="true"],
