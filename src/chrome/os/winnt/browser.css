@@ -571,9 +571,9 @@ toolbarbutton.bookmark-item[open="true"] {
   }
   
   #main-window[sizemode="maximized"][tabsontop="true"] .titlebar-button {
-    padding-top: 6px;
-    padding-bottom: 6px;
-    margin-bottom: 5px !important;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    margin-bottom: 2px !important;
   }
 
   .titlebar-button > .toolbarbutton-icon {
