@@ -1,5 +1,17 @@
 # Changelog
 
+### 2.1.0
+- restore native toolbarbutton styling
+- restrict toolbarbutton filters to browser-provided buttons
+- fix statusbar progressmeter
+- fix new tab button icon mapping
+- sync devtools styling with default
+- preserve add-on bar close button in text mode
+- Linux: redesign appmenu
+- Windows: draw a background on Win10 to improve accent color detection
+- OS X: fix active tab text styling
+- cleanup redundant code
+
 ### 2.0.0
 - merge in macOS styling (basic macOS support)
 - add HiDPI-capable toolbar images
