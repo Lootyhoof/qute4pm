@@ -230,6 +230,18 @@ toolbarbutton.bookmark-item > menupopup {
   text-shadow: none;
 }
 
+/* Reduce margins on back/forward keyhole icons */
+
+toolbar[iconsize="large"][mode="icons"] #forward-button,
+toolbar[iconsize="large"][mode="icons"] #back-forward-dropmarker {
+  margin-left: -2px !important;
+}
+
+toolbar[iconsize="small"][mode="icons"] #forward-button,
+toolbar[iconsize="small"][mode="icons"] #back-forward-dropmarker {
+  margin-left: -3px !important;
+}
+
 /* Add-on bar */
 
 #addon-bar {
@@ -254,6 +266,6 @@ toolbarbutton.bookmark-item > menupopup {
 #main-window[privatebrowsingmode=temporary] #TabsToolbar::before {
   display: -moz-box;
   content: "";
-  background: url("chrome://browser/skin/privatebrowsing-dark.png") center no-repeat;
-  width: 40px;
+  background: url("chrome://browser/skin/Privacy-16.png") center no-repeat;
+  width: 32px;
 }
