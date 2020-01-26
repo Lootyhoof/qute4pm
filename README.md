@@ -1,5 +1,5 @@
 # Qute 4 PM
-![Preview](http://i63.tinypic.com/ojdwfp.png)
+![Preview](https://i.imgur.com/BjIGDX1.png)
 
 Fork of the theme "Qute 4++" by Murphy for Pale Moon.
 
