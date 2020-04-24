@@ -4,8 +4,8 @@ skin	communicator	qute4pm	chrome/communicator/
 skin	global		qute4pm	chrome/global/
 skin	mozapps		qute4pm	chrome/mozapps/
 
+skin	os			qute4pm	chrome/os/linux/
 skin	os			qute4pm	chrome/os/winnt/		os=WINNT	
-skin	os			qute4pm	chrome/os/linux/		os=Linux
 skin	os			qute4pm	chrome/os/darwin/		os=Darwin
 
 override chrome://browser/skin/autocomplete.css chrome://global/skin/autocomplete.css
